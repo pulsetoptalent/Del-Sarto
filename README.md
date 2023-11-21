@@ -26,40 +26,28 @@ Skills:
    ✔ Custom dApps
    
    ✔ Smart Contract Development | ERC20 | ERC777 | ERC223 | ERC721 | ERC1155
+
+
+2  Web Development
+
    
-   ✔ IEO | STO | Blockchain Research Writing and Whitepapers
-   
-   ✔ Tokenomics
-   
-   ✔ Token Wallet Development
-
-   ✔ Cryptocurrency Games
-
-   ✔ Custom concurrency development
-
-   ✔ Chain codes
-
-   ✔ Node-set ups
-
-   ✔ Multichain and Cosmos development
-
-   ✔ One-pagerfd
-
-3. Web Development:
    ✓ Languages: Python, JavaScript, Typescript, SQL
+   
    ✓ Backend: Node.js Django, Flask, Spring Boot
+   
    ✓ Frontend: React.js, Vue.js,
+   
    ✓ CMS (WordPress, Shopify)
+   
    ✓ Web: CSS 3 (including SASS and Stylus), HTML5
+   
    ✓ Databases: DynamoDB, MongoDB, PostgreSQL, MySQL.
+   
    ✓ Tests: Mocha, Chai
+   
    ✓ Version control: GIT, SVN; GitHub, BitBucket
 
-   
-3 . OpenAI:
-  - Extensive experience with OpenAI, including the use of GPT models for natural language processing tasks.
-  - Knowledge of OpenAI APIs and ability to integrate them into web applications.
-  - Understanding of reinforcement learning concepts and implementation.
+
 <!--
 **Del-Sarto/Del-Sarto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
