@@ -46,21 +46,13 @@ Skills:
    ✔ One-pagerfd
 
 3. Web Development:
-
    ✓ Languages: Python, JavaScript, Typescript, SQL
-
    ✓ Backend: Node.js Django, Flask, Spring Boot
-
    ✓ Frontend: React.js, Vue.js,
-
    ✓ CMS (WordPress, Shopify)
-
    ✓ Web: CSS 3 (including SASS and Stylus), HTML5
-
    ✓ Databases: DynamoDB, MongoDB, PostgreSQL, MySQL.
-
    ✓ Tests: Mocha, Chai
-
    ✓ Version control: GIT, SVN; GitHub, BitBucket
 
    
