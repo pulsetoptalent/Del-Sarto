@@ -6,6 +6,7 @@ Highly skilled and experienced web developer with expertise in React, OpenAI, an
 Skills:
 
 1. Blockchain Development:
+   
    ✔ DEX and Centralized Crypto Exchange
    
    ✔ Advance Trading Platform (Lending | Swapping | Staking | Futures)
